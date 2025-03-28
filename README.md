@@ -62,7 +62,7 @@ docker-compose run os-test pytest test_os_suite.py --html=reports/report.html
 
 Below is a sample test report output showing all tests passing successfully:
 
-![Test Report Output](./docs/image.png)
+![./docs/image.png]
 
 ### Test Report Details
 - **Environment**: Linux-WSL2, Python 3.12.3
