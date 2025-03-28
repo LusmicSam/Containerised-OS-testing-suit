@@ -62,7 +62,7 @@ docker-compose run os-test pytest test_os_suite.py --html=reports/report.html
 
 Below is a sample test report output showing all tests passing successfully:
 
-![.Report sample](https://github.com/LusmicSam/Containerised-OS-testing-suit/blob/main/docs/image.png)
+![Report sample](https://github.com/LusmicSam/Containerised-OS-testing-suit/blob/main/docs/image.png)
 
 ### Test Report Details
 - **Environment**: Linux-WSL2, Python 3.12.3
